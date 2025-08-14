@@ -147,7 +147,7 @@
 //   return 2;
 // }
 
-// console.log(detectNumberType("123"));
+// console.log(detectNumberType(122));
 
 
 // //                                   String12
