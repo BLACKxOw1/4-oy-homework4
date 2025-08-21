@@ -1,6 +1,6 @@
-// //                                   String1
+//                                   String1\
 
-// const n = 10;
+// const n = 26;
 
 // for (let i = 0; i <= n; i++) {
 //   console.log(String.fromCharCode(65 + i));
